@@ -1,12 +1,12 @@
 # Fundamentals of Reinforcement Learning
-<hr>
 
 ## week 1
- - An Introduction to Sequential Decision-Making
- - The K-Armed Bandit Problem
- - What to Learn? Estimating Action Values
- - Exploration vs. Exploitation Tradeoff
- - CODE: Bandits & Explorations vs Exploitation
+- Reading: Chapter 2-2.7 (Pages 25-36) 
+- An Introduction to Sequential Decision-Making
+- The K-Armed Bandit Problem
+- What to Learn? Estimating Action Values
+- Exploration vs. Exploitation Tradeoff
+- CODE: Bandits & Explorations vs Exploitation
  
 ## week 2
 
