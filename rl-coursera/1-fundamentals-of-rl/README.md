@@ -1,13 +1,11 @@
 # Fundamentals of Reinforcement Learning
 - [Learning Objectives](reading/Fundamentals-of-Reinforcement-Learning_-Learning-Objectives-.pdf)
 
-## week 1
-- Reading: Chapter 2-2.7 (Pages 25-36) 
-- An Introduction to Sequential Decision-Making
+## Module 01: 
 - The K-Armed Bandit Problem
 - What to Learn? Estimating Action Values
 - Exploration vs. Exploitation Tradeoff
-- [NOTES](week-1.md)
+- [NOTES](module-01.md)
 - [Bandits & Exploration vs Exploitation]()
  
 ## Resources:
