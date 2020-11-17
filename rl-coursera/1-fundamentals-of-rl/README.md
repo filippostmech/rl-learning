@@ -1,4 +1,4 @@
-# Fundamentals of Reinforcement Learning
+# C1: Fundamentals of Reinforcement Learning
 - [Learning Objectives](reading/Fundamentals-of-Reinforcement-Learning_-Learning-Objectives-.pdf)
 
 ## Module 01: 
@@ -10,6 +10,8 @@
  
 ## Resources:
 - [Stanford](http://web.stanford.edu/class/cme241/) 
+- https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
+
 
 and the main book proposed by everyone:
 - http://incompleteideas.net/book/the-book-2nd.html
