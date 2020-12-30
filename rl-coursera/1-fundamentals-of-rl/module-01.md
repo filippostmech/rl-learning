@@ -5,14 +5,14 @@
     - scroll down to Lecture 1
 - Reading: Chapter 2-2.7 (Pages 25-36)
 
-## Outline - Notes
+## Lessons - Notes
 ### Lesson 1: The K-Armed Bandit Problem
 - Define reward
 - Understand the temporal nature of the bandit problem
 - Define k-armed bandit
 - Define action-values
  
- #### From David Silver's Course/Lecture 1:
+ ### From David Silver's Course/Lecture 1:
     
  ![rewards](img/1.PNG)
  
@@ -71,7 +71,7 @@
  
  ![partially-observable](img/10.PNG)
 
- #### From David Silver's Course/Lecture 1, we discuss HOW TO SOLVE THE RL PROBLEM:
+ ### From David Silver's Course/Lecture 1, we discuss HOW TO SOLVE THE RL PROBLEM:
 
 ![RL-components](img/11.PNG)
 
@@ -99,6 +99,14 @@
 
 ![RL-taxonomy-2](img/20.PNG)
 
+### Multi-armed Bandit Problems
+
+Here [Chapter 2](http://www.incompleteideas.net/book/RLbook2018.pdf)
+from Sutton's book serves as the main resource.
+- RL in a simplified setting
+- study the non-associative evaluative feedback problem of RL in a simple version of
+the <i>k-armed</i> bandit problem
+  
 <hr>    
 
 ### Lesson 2: What to Learn? Estimating Action Values
