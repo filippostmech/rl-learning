@@ -1,6 +1,6 @@
 # Reinforcement Learning
 This is the main repo tracking my trip in reinforcement learning.
-The repo contains folders taht are linked below.
+The repo contains folders that are linked below.
 
 ## Reinforcement Learning Specialization
 by Coursera & the University of Alberta
